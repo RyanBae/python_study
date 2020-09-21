@@ -3,7 +3,7 @@ import numpy as np
 
 # 배열 생성
 # 배열 생성시 초기화
-# numpy array 를 만들면서 특정 갑으로 초기화 하여 만들기
+# numpy array 를 만들면서 특정 값으로 초기화 하여 만들기
 # 1 차원 : 백터
 # 2 차원 이상 : 행렬
 # dtype : 디멘션 타입
